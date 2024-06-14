@@ -25,15 +25,19 @@ This project provides an in-depth analysis of sales data to uncover trends, patt
 2. **Data Cleaning**: Removing duplicates, handling missing values, and correcting data formats.
 3. **Descriptive Statistics**: Summarizing the central tendencies, dispersion, and shape of the dataset’s distribution.
 4. **Data Visualization**:
+   - Relationship between Quantity ordered per year
    - Sales trends over time.
-   - Monthly, quarterly, and yearly sales performance.
-   - Product-wise sales distribution.
-   - Regional sales analysis.
-   - Identification of peak sales periods and potential seasonality.
-5. **Advanced Analysis**:
-   - **Correlation analysis** to find relationships between different variables.
-   - **Customer segmentation analysis**.
-   - **Predictive analytics using time series forecasting** (optional).
+   - Total Sales per year
+   - Distribution of Sales
+   - Relationship between Discount and Profit
+   - Sales By Market
+   - Profit Based on Category
+   - Sales Trend Over Time
+   - Top 10 Best Selling Products
+   - Top 10 Best Selling Product According to Sales and Profit
+   - Total Revenue over Time (Over month)
+   - Average Order Value (AOV)
+
 
 ### Results
 
